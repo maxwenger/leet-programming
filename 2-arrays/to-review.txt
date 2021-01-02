@@ -1,0 +1,6 @@
+Concepts:
+- Implementing binary search
+
+Questions:
+2. Remove duplicates from sorted array
+
